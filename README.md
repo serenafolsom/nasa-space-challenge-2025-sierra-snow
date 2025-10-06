@@ -5,5 +5,5 @@ Presentation slides: [Google Slides](https://docs.google.com/presentation/d/1-te
 
 YouTube 30-second animation: [Shrinking Snow in the Sierra Nevada](https://www.youtube.com/watch?v=bwGT_pek2jE)
 
-Website by : [Terra Forming a New Outcome for Earth](https://nasa2025hacks.w3spaces.com/home.html)
+Website by Mantashree Kumar: [Terra Forming a New Outcome for Earth](https://nasa2025hacks.w3spaces.com/home.html)
 
